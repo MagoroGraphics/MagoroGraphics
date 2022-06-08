@@ -5,7 +5,7 @@
 
 - I have always been passionate about how tech pushes the audiovisual media to new territories.
 
-- I am a career changer! Unafraid of oing from Art & Design into Software Development and looking forward to working with a friendly and like-minded team.
+- I am a career changer! Unafraid of going from Art & Design into Software Development and looking forward to working with a friendly and like-minded team.
 
 - I am very curious about everything and love learning. Taught myself how to draw, digital art, 3D design (huge fan of Blender), animation...
 
