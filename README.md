@@ -12,6 +12,9 @@
 - I believe computers are the most sophisticated tool ever invented and the source of endless possibilities.
 
 - I am creative and detail oriented. I invite you to take a look at my art portfolio.
+
+<br/>
+
 ## 🛠 Skills
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -40,6 +43,8 @@
   <img align="left" alt="Mario's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=magorographics&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a250" />
 
 </details>
+
+<br/>
 
 ## 🔗 Links
 [![portfolio](./img/behance.svg)](https://www.behance.net/magorographics)
