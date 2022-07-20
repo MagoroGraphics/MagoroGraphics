@@ -3,7 +3,7 @@
 
 ## I'm a Junior Software Developer with a background in Art & Design
 
-- I have always been passionate about how tech pushes the audiovisual media to new territories.
+- Currently learning Typescript.
 
 - I am a career changer! Unafraid of going from Art & Design into Software Development and looking forward to working with a friendly and like-minded team.
 
