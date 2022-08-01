@@ -5,7 +5,7 @@
 
 - Currently learning Typescript.
 
-- I am a career changer! Unafraid of going from Art & Design into Software Development and looking forward to working with a friendly and like-minded team.
+- I am a career changer! From Art & Design into Software Development and enjoy working with a friendly and like-minded people.
 
 - I am very curious about everything and love learning. Taught myself how to draw, digital art, 3D design (huge fan of Blender), animation...
 
