@@ -1,17 +1,17 @@
 
 # Hello, I'm Mario! 👋
 
-## I'm a Software Developer with a background in Art & Design
+## I'm a Software Developer with experience in React, Ruby on Rails, Java and Python.
 
-- Currently learning Typescript.
-
-- I am a career changer! From Art & Design into Software Development and enjoy working with a friendly and like-minded people.
+- Currently improving my knowledge in: Typescript, Ruby on Rails.
 
 - I am very curious about everything and love learning. Taught myself how to draw, digital art, 3D design (huge fan of Blender), animation...
 
 - I believe computers are the most sophisticated tool ever invented and the source of endless possibilities.
 
-- I am creative and detail oriented. I invite you to take a look at my art portfolio.
+- I am creative and detail oriented. I love solving complex problems.
+
+- I am a career changer! From Art & Design into Software Development and enjoy working with a friendly and like-minded people.
 
 <br/>
 
