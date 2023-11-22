@@ -1,7 +1,7 @@
 
 # Hello, I'm Mario! 👋
 
-## I'm a Junior Software Developer with a background in Art & Design
+## I'm a Software Developer with a background in Art & Design
 
 - Currently learning Typescript.
 
