@@ -5,13 +5,13 @@
 
 - Currently improving my knowledge in: Typescript, Ruby on Rails.
 
-- I am very curious about everything and love learning. Taught myself how to draw, digital art, 3D design (huge fan of Blender), animation...
+- I am very curious about everything and love learning.
 
 - I believe computers are the most sophisticated tool ever invented and the source of endless possibilities.
 
 - I am creative and detail oriented. I love solving complex problems.
 
-- I am a career changer! From Art & Design into Software Development and enjoy working with a friendly and like-minded people.
+- I have a background in Art & Design.
 
 <br/>
 
