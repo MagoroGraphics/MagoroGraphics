@@ -1,7 +1,7 @@
 
 # Hello, I'm Mario! 👋
 
-## I'm a Software Developer with experience in React, Ruby on Rails, Java and Python.
+## I'm a Software Engineer with experience in React, Ruby on Rails, Java and Python.
 
 - Currently improving my knowledge in: Typescript, Ruby on Rails.
 
