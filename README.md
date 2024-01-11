@@ -47,7 +47,6 @@
 <br/>
 
 ## 🔗 Links
-[![portfolio](./img/behance.svg)](https://www.behance.net/magorographics)
 [![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/mario-a-gonzalez-robert/)
-[![twitter](./img/twitter.svg)](https://twitter.com/MagoroGraphics)
+[![portfolio](./img/behance.svg)](https://www.behance.net/magorographics)
 [![instagram](./img/insta.svg)](https://www.instagram.com/magorographics/)
