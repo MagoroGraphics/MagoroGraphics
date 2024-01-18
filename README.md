@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer with experience in React, Ruby on Rails, Java and Python.
 
-- Currently improving my knowledge in: Typescript, Ruby on Rails.
+- Currently improving my knowledge in: Typescript, Java, PostgreSQL.
 
 - I am very curious about everything and love learning.
 
